@@ -1,0 +1,10 @@
+.game-block {
+  display: flex;
+  width: 33.3%;
+  min-height: 100px;
+  border: 1px solid #000000;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  cursor: pointer;
+}

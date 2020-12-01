@@ -1,0 +1,3 @@
+const STORE_SCORE = 'STORE_SCORE';
+
+export { STORE_SCORE };
